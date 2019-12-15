@@ -1,7 +1,7 @@
 {
-  "name": "stylelint-config-alinea",
+  "name": "@alineaopensource/stylelint-config-alinea",
   "description": "Stylelint rules shared across Alinea OpenSource TypeScript projects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": "git@github.com:AlineaOpenSource/stylelint-config-alinea.git",
