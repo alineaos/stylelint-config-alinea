@@ -1,0 +1,20 @@
+{
+  "name": "stylelint-config-alinea",
+  "description": "Stylelint rules shared across Alinea OpenSource TypeScript projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:AlineaOpenSource/stylelint-config-alinea.git",
+  "author": "Arsam Sarabi <arsamsarabi@me.com>",
+  "peerDependencies": {
+    "stylelint": ">= 12"
+  },
+  "dependencies": {
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.9.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
