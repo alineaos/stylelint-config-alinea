@@ -1,10 +1,10 @@
 {
-  "name": "@alineaopensource/stylelint-config-alinea",
-  "description": "Stylelint rules shared across Alinea OpenSource TypeScript projects",
-  "version": "1.0.1",
+  "name": "@alineaos/stylelint-config-alinea",
+  "description": "Stylelint rules shared across Alinea Open Source TypeScript projects",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
-  "repository": "git@github.com:AlineaOpenSource/stylelint-config-alinea.git",
+  "repository": "git@github.com:alineaos/stylelint-config-alinea.git",
   "author": "Arsam Sarabi <arsamsarabi@me.com>",
   "peerDependencies": {
     "stylelint": ">= 12"

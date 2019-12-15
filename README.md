@@ -1,13 +1,13 @@
 # styelint-config-alinea
 
-Stylelint rules shared across Alinea OpenSource TypeScript projects
+Stylelint rules shared across Alinea Open Source TypeScript projects
 
 ## Usage
 
 ### Installation
 
 ```shell
-  yarn add --dev stylelint @alineaopensource/stylelint-config-alinea
+  yarn add --dev stylelint @alineaos/stylelint-config-alinea
 ```
 
 ### Configuration
